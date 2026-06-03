@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1> 🤓 Natan Samuel</h1>
 
-<!--
-**Natinou12/natinou12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><strong>Desenvolvedor Front-End</strong></p>
 
-Here are some ideas to get you started:
+<p>Oi! Sou Natan Samuel (ou Natinou), tenho 14 anos e sou estudante de escola pública.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+    Tenho maior experiência em desenvolvimento <strong>Front-end</strong>, principalmente com <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong>, tecnologias nas quais também possuo certificações. Atualmente, estou estudando <strong>React</strong> para expandir meus conhecimentos e criar aplicações cada vez mais completas, com foco na experiência e na usabilidade do usuário.
+</p>
+
+<p>
+    Sou apaixonado por tecnologia e estou sempre buscando aprender coisas novas, explorando não apenas o <strong>Front-end</strong>, mas também áreas como <strong>Back-end</strong> e <strong>Banco de Dados</strong>.
+</p>
+
+<p>📍 Rio Grande do Sul, Brasil</p>
+
+<h2>Linguagens e Tecnologias:</h2>
+
+<p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40px"/>
+</p>
+
+
