@@ -22,6 +22,3 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px"/>&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40px"/>
 </p>&nbsp;&nbsp;&nbsp;
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natinou12)](https://github.com/anuraghazra/github-readme-stats)
-
