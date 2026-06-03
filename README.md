@@ -1,6 +1,6 @@
 <h1> 🤓 Natan Samuel</h1>
 
-<p><strong>Desenvolvedor Front-End</strong></p>
+<p>&lt;&gt;💻<strong>Desenvolvedor Front-End</strong>&lt;/&gt;</p>
 
 <p>Oi! Sou Natan Samuel (ou Natinou), tenho 14 anos e sou estudante de escola pública.</p>
 
