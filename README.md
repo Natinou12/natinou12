@@ -14,13 +14,14 @@
 
 <p>📍 Rio Grande do Sul, Brasil</p>
 
-<h2>Linguagens e Tecnologias:</h2>
+<h2>🛠️ Linguagens e Tecnologias:</h2>
 
 <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40px"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40px"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px"/>&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40px"/>
-</p>
+</p>&nbsp;&nbsp;&nbsp;
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natinou12)](https://github.com/anuraghazra/github-readme-stats)
 
